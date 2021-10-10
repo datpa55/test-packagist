@@ -1,0 +1,16 @@
+{
+    "name": "dmcms/test-packagist",
+    "description": "This is a test package",
+    "autoload": {
+        "psr-4": {
+            "Dmcms\\TestPackagist\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DatPA",
+            "email": "datpa12192@gmail.com"
+        }
+    ],
+    "require": {}
+}
